@@ -1,3 +1,6 @@
+> Veggybo maintenance fork: iOS Swift Package Manager support with CocoaPods compatibility.
+> See [FORK.md](FORK.md) for provenance, supported tooling, review and validation.
+
 # icloud_storage
 
 [![Pub](https://img.shields.io/pub/v/icloud_storage.svg)](https://pub.dev/packages/icloud_storage)
